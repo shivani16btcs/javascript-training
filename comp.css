@@ -1,0 +1,59 @@
+/* image slider*/
+/*
+.box{
+margin-left: auto;
+margin-right: auto;
+width: 80%;
+background-color: red;
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+*/
+
+/*=======================pig GAME===========================*/
+/*
+.player{
+    display:flex;
+    background:lightyellow;
+}
+
+.player1{
+  background-color:lightpink;
+}
+.player2{
+    background-color:lightgreen;
+}
+
+.game img{
+    height: 30px;
+    width: 30px;
+}
+*/
+/*=================================Budget app=======================*/
+.head{
+    display:inline-flex;
+}
+.top{
+    background-image:url("nature.jpeg");
+    background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  color:darkblue;
+
+  
+}
+.middle{
+   
+    align-items: center;
+  justify-content: center;
+    background-color:lightgreen;
+}
+#buget{
+   font-size:35px; 
+}
+
+.mydata{
+    display:flex;
+}
